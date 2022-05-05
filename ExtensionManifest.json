@@ -2,8 +2,9 @@
   "type" : "IconPack",
   "name": "Voicemeeter",
   "author": "desatur8",
-  "repository": "https://github.com/desatur8/VoiceMeeter",
+  "repository": "https://github.com/desatur8/MacroDeck-Icons-Voicemeeter",
   "packageId": "desatur8.Voicemeeter",
   "version": "1.0.0",
-  "target-plugin-api-version" : 31
+  "target-plugin-api-version" : 32,
+  "dll": ""
 }
