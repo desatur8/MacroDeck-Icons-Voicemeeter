@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="ExtensionIcon.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Voicemeeter Icon Pack for Macro Deck</h3>
+  <img src="ExtensionIcon.png" alt="Logo" width="80" height="80">
 </div>
 
